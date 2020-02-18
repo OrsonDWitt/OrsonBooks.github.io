@@ -5,7 +5,7 @@ comments: false
 ---
 	
 <div class="container-fluid">
-	<div class="row d-flex justify-content-center">
+	<div class="row d-flex justify-content-center text-light bg-dark">
 		<div class="col-md-3 col-6">
 			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School"/>
 		</div>
