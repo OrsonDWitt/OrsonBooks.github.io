@@ -32,8 +32,8 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 	  <a href="https://www.scribd.com/book/330029998/Orca-Hunting-School" rel="nofollow" target="_blank">Scribd</a>
 	  </li>
   </div>
-</div><br>
-<a href="https://www.goodreads.com/book/show/32859840-orca-hunting-school" style="padding-left:3px;" target="_blank">Add to Goodreads</a>
+</div><p>
+<a href="https://www.goodreads.com/book/show/32859840-orca-hunting-school" target="_blank">Add to Goodreads</a></p>
 				</div>
 			</div>
 		</div>
