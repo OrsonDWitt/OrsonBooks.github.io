@@ -19,13 +19,21 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 					<div class="btn-group dropright">
   					<button class="btn btn-secondary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BUY NOW</button>
   <div class="dropdown-menu">
+	  <li class="nav-item">
 	  <a href="https://www.amazon.com/dp/B01MDU6A44/" rel="nofollow" target="_blank">Amazon</a>
+	  </li>
+	<li class="nav-item">
 	  <a href="https://store.kobobooks.com/en-us/ebook/orca-hunting-school" rel="nofollow" target="_blank">Kobo</a>
+	</li>
+	<li class="nav-item">
 	  <a href="https://www.smashwords.com/books/view/678230" rel="nofollow" target="_blank">Smashwords</a>
+	</li>
+	<li class="nav-item">
 	  <a href="https://www.scribd.com/book/330029998/Orca-Hunting-School" rel="nofollow" target="_blank">Scribd</a>
+	  </li>
   </div>
 </div>
-<a href="https://www.goodreads.com/book/show/32859840-orca-hunting-school" target="_blank"><img class="btn" src="http://orsondewitt.com/goodreads2.png" height="15%" width="15%"> </a>
+<a href="https://www.goodreads.com/book/show/32859840-orca-hunting-school" target="_blank"><img class="btn" src="http://orsondewitt.com/goodreads2.png"> </a>
 				</div>
 				<div class="col-md-6">
 				</div>
