@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  "Let's test spoilers"
-author: sal
+author: Orson
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
+rating: 4.5
 ---
+
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
