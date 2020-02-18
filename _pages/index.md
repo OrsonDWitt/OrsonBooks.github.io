@@ -7,7 +7,7 @@ comments: false
 <div class="container-fluid">
 	<div class="row d-flex justify-content-center text-light">
 		<div class="col-lg-3 col-6 book-1">
-			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School"/>
+			<img class="shadow-lg" src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School"/>
 		</div>
 		<div class="col-lg-6 col-6 book-2">
 			<h3 class="text-left">Orca Hunting School</h3>
