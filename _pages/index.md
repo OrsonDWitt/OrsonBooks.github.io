@@ -7,6 +7,7 @@ comments: false
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-4">
+			<img src="/assets/images/orcacover.png" alt="Orca Hunting School"/>
 		</div>
 		<div class="col-md-8">
 			<h3 class="text-left">Orca Hunting School</h3>
