@@ -15,10 +15,12 @@
 ;
 
 .logo {
-	background: url('https://egypt.orcinusgames.com/OrsonBooks.github.io/assets/images/logo.svg');
+	width=500%;
+	height=500%;
 }
 @media screen and (max-width:960px) {
 .logo {
-	background: url('https://egypt.orcinusgames.com/OrsonBooks.github.io/assets/images/logo-small.svg');
+	width=300%;
+	height=300%;
 	}
 }
