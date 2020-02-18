@@ -14,11 +14,10 @@
     "starsnonscss"
 ;
 
-.logo {
-	padding-left:0;
+.navbar-brand {
+	padding-top: 0;
+	padding-bottom: 0;
 }
-@media screen and (max-width:960px) {
-.logo {
-
-	}
+	.mediumnavigation .navbar-brand img  {
+	max-height: 37px;
 }
