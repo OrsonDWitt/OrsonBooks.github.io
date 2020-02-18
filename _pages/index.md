@@ -3,13 +3,13 @@ layout: page
 permalink: /
 comments: false
 ---
-
+	
 <div class="container-fluid">
 	<div class="row d-flex justify-content-center">
-		<div class="col-md-4">
+		<div class="col-md-2">
 			<img src="{{ site.baseurl }}/assets/images/orcacover.png" style="max-height:536px" alt="Orca Hunting School"/>
 		</div>
-		<div class="col-md-8">
+		<div class="col-md-6">
 			<h3 class="text-left">Orca Hunting School</h3>
 			<p>
 The sea lion rookery at Peninsula Valdes is a festive table laid for the chief hunters of the ocean. Year after year it attracts groups of orcas for an easy hunt. This time, for one of the calves, comes the time to learn the perilous practice of hunting on land. But what kind of price will he have to pay for his desire to master this skill?
