@@ -18,7 +18,7 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 				<div class="col-md-5">
 					<div class="btn-group dropright">
   					<button class="btn btn-secondary btn-lg btn-success dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BUY NOW</button>			
-  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+  <div class="dropdown-menu">
 	  <li class="dropdown-item">
 	  <a href="https://www.amazon.com/dp/B01MDU6A44/" rel="nofollow" target="_blank">Amazon</a>
 	  </li>
