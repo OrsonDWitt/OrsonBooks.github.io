@@ -7,7 +7,7 @@ comments: false
 <div class="container-fluid">
 	<div class="row d-flex justify-content-center">
 		<div class="col-md-2">
-			<img src="{{ site.baseurl }}/assets/images/orcacover.png" style="max-height:536px" alt="Orca Hunting School"/>
+			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School"/>
 		</div>
 		<div class="col-md-6">
 			<h3 class="text-left">Orca Hunting School</h3>
