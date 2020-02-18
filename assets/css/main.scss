@@ -22,11 +22,11 @@
 	max-height: 37px;
 }
 
-a {color: #007eFF; transition: color 0.5s;}
+a, a. nav-link {color: #007eFF; transition: color 0.5s;}
 
-a:visited {color: #65b1ff;}
+a:visited, a. nav-link:visited {color: #65b1ff;}
 
-a:hover {
+a:hover, a. nav-link:hover {
         color: #65b1ff;
 }
 
