@@ -22,23 +22,8 @@
 	max-height: 37px;
 }
 
-a, a. nav-link {color: #007eFF; transition: color 0.5s;}
-
-a:visited, a. nav-link:visited {color: #65b1ff;}
+a, a. nav-link {color: #fff; transition: background-color 0.5s;}
 
 a:hover, a. nav-link:hover {
-        color: #65b1ff;
-}
-
-a.button {
-    font-size: 1.2em; text-decoration: none; color: #fff; border: 1px /* width*/ solid /*style*/ #fff; padding: 4px 15px; transition: background-color 0.5s /*animation transition between colors*/;
-}
-a.button:hover {
     background-color: rgba(0,0,0,.3);
-}
-a.more {
-    font-size: 1.2em; text-decoration: none; color: #fff; border: 1px /* width*/ solid /*style*/ #fff; padding: 4px 15px; transition: background-color 0.5s /*animation transition between colors*/;
-}
-a.more:hover {
-    background-color: rgba(0,0,0,.5);
 }
