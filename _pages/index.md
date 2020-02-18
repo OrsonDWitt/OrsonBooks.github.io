@@ -14,7 +14,6 @@ comments: false
 			<p>
 The sea lion rookery at Peninsula Valdes is a festive table laid for the chief hunters of the ocean. Year after year it attracts groups of orcas for an easy hunt. This time, for one of the calves, comes the time to learn the perilous practice of hunting on land. But what kind of price will he have to pay for his desire to master this skill?
 			</p>
-			<div class="row">
 				<div class="col-md-5">
 					<div class="btn-group dropright">
   					<button class="btn btn-lg btn-success dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BUY NOW</button>			
