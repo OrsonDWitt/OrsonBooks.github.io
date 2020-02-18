@@ -2,7 +2,7 @@
 name: "Mediumish"
 title: "Mediumish"
 description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.svg'
+logo: 'assets/images/logo.png'
 logo-small: 'assets/images/logo-small.svg'
 favicon: 'assets/images/logo.png'
 baseurl: /
