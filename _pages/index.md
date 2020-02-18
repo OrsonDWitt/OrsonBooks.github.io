@@ -16,11 +16,16 @@ The sea lion rookery at Peninsula Valdes is a festive table laid for the chief h
 			</p>
 			<div class="row">
 				<div class="col-md-6">
-          <a href="https://www.smashwords.com/books/view/678230" target="_blank"><img class="btn" src="/smashwords.png" height="25%" width="25%"/></a><a href="https://store.kobobooks.com/en-us/ebook/orca-hunting-school" target="_blank"><img class="btn" src="/kobo.png" height="25%" width="25%"/></a><a href="https://www.amazon.com/dp/B01MDU6A44/" target="_blank"><img src="/amazon.png" class="btn" height="25%" width="25%" /></a><a href="https://www.goodreads.com/book_link/follow/2102?book_id=32859840&source=dropdown" target="_blank">
-<img class="btn" src="/ibooks.png" height="25%" width="25%" /></a><a href="https://www.scribd.com/book/330029998/Orca-Hunting-School" target="_blank"><img class="btn" src="/scribd.png" height="25%" width="25%"/></a>
-<!--<a href="" target="_blank"><img class="btn" src="/barnes.png" height="20%" width="20%"/></a>
--->
-<a href="https://www.goodreads.com/book/show/32859840-orca-hunting-school" target="_blank"><img class="btn" src="/goodreads2.png" height="15%" width="15%"> </a>
+					<div class="btn-group dropright">
+  					<button class="btn btn-secondary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BUY NOW</button>
+  <div class="dropdown-menu">
+	  <a href="https://www.amazon.com/dp/B01MDU6A44/" rel="nofollow" target="_blank">Amazon</a>
+	  <a href="https://store.kobobooks.com/en-us/ebook/orca-hunting-school" rel="nofollow" target="_blank">Kobo</a>
+	  <a href="https://www.smashwords.com/books/view/678230" rel="nofollow" target="_blank">Smashwords</a>
+	  <a href="https://www.scribd.com/book/330029998/Orca-Hunting-School" rel="nofollow" target="_blank">Scribd</a>
+  </div>
+</div>
+<a href="https://www.goodreads.com/book/show/32859840-orca-hunting-school" target="_blank"><img class="btn" src="http://orsondewitt.com/goodreads2.png" height="15%" width="15%"> </a>
 				</div>
 				<div class="col-md-6">
 				</div>
