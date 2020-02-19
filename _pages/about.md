@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-3">
 <div class="sticky-top sticky-top-80 text-right">
 <h5>Buy me a coffee</h5>
-<p class="pb-5"><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
+<p><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 </div>
 </div>
