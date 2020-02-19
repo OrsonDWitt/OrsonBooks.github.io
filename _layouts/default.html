@@ -42,7 +42,11 @@
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
+	    {% if page.url == "/about" %}
+   <a class="navbar-brand padding-adjustment" href="{{ site.baseurl }}/">
+	    	    {% else %}
+	        <a class="navbar-brand" href="{{ site.baseurl }}/">
+			{% endif %}
 	    <img class="img-fluid logo" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
@@ -66,7 +70,9 @@
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About Me</a>
+				    {% if page.url == "/about" %}
+                <a class="nav-link" href="{{ site.baseurl }}/">Books</a>
+			{% endif %}
                 </li>
 
 		<li class="nav-item dropdown">
