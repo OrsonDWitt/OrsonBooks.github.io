@@ -51,6 +51,7 @@
 
 .books .dropdown-menu a {color:#000;}
 .books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
+.books h3 {text-align:left}
 
 div .book-1 {
 	 background-color: #000000;
@@ -63,3 +64,10 @@ div .book-2 {
         border-radius: 0px 5px 5px 0px;
         border-top: 1px solid #fff; border-right: 1px solid #fff; border-bottom: 1px solid #fff;
 	overflow: auto; padding:2% 5% 2% 1%; font-family:'PT Serif', serif;}
+
+@media screen and (max-width: 576px){
+	.books h3 {text-align:center};
+	.books .col-12 {text-align:center};
+	div .book-1 {border:none; padding:0;};
+	div .book-2 {border:none; padding:0;};
+}
