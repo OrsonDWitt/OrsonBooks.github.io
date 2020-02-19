@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-<div class="row justify-content-between">
+<div class="row">
 <div class="col-md-3">
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
