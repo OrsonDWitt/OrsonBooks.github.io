@@ -22,7 +22,6 @@
 
 {% if jekyll.environment == 'production' %}
 <!-- analytics -->
-<script> !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push( arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0]; d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode. insertBefore(d,q)}(window,document,'script','_gs'); _gs('GSN-237263-C'); _gs('set', 'anonymizeIP', true); </script>
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -146,19 +145,51 @@
 <!-- Begin Footer
 ================================================== -->
 <footer class="footer">
-    <div class="container bg-dark text-light">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center text-lg-center">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-            </div>
-
-<!--
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                -->
-
-            </div>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 col-xs-12 mx-auto text-center">
+        <ul class="list-inline text-center">
+          {% if site.steam_creator_page %}
+          <li class="list-inline-item">
+            <a href="{{ site.steam_creator_page }}">
+              <span class="fa-stack fa-lg">
+                <i class="fab fa-steam-square fa-stack-2x" title="Steam Creator Page"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.subreddit %}
+          <li class="list-inline-item">
+            <a href="https://www.reddit.com/r/{{ site.subreddit }}">
+              <span class="fa-stack fa-lg">
+                <i class="fab fa-reddit-square fa-stack-2x" title="Join the subreddit"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.discord_invite %}
+          <li class="list-inline-item">
+            <a href="{{ site.discord_invite }}">
+              <span class="fa-stack fa-lg">
+                <i class="fab fa-discord fa-stack-2x" title="Join the Discord server"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.youtube %}
+          <li class="list-inline-item">
+            <a href="{{ site.youtube }}">
+              <span class="fa-stack fa-lg">
+                <i class="fab fa-youtube-square fa-stack-2x" title="Subscribe to the YouTube channel"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+        <p class="copyright text-muted"><i class="far fa-envelope"></i> <a href="mailto:{{ site.email }}" class="text-muted">{{ site.email }}</a><br>Copyright &copy; {{ site.author }}, {{ 'now' | date: "%Y" }}</p>
+      </div>
     </div>
+  </div>
 </footer>
 <!-- End Footer
 ================================================== -->
