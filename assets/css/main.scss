@@ -41,7 +41,8 @@
 
 //language switch for smaller screens
 @media screen and (max-width: 990px){
-.books .dropdown-menu-right,.books .mediumnavigation .dropdown-menu-right {background-color:#000; border: none; margin: 0; padding-top: 0; color:#fff}
+.books .dropdown-menu-right,.books .mediumnavigation .dropdown-menu-right {background:transparent; border: none; margin: 0; padding-top: 0;}
+.books .dropdown-menu-right .dropdown-item {color:#fff}
 }
 
 .books .dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
