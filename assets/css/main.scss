@@ -41,8 +41,10 @@ a .dropdown-item {float:right; width:50%;}
 
 div .book-1 {
 	 background-color: #000000;
+        border-radius: 5px 5px 0px 0px;
 	overflow: auto; padding:2% 1% 2% 5%;}
 
 div .book-2 {
 		 background-color: #000000;
+        border-radius: 0px 0px 5px 5px;
 	overflow: auto; padding:2% 5% 2% 1%; font-family:'PT Serif', serif;}
