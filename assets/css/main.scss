@@ -38,6 +38,7 @@
 }
 
 .books .dropdown-menu {min-width:4rem;}
+.books .dropdown-menu[aria-expanded="true"] {max-width:6.5rem;}
 .books .dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
 
 .books .dropdown-menu a {color:#000;}
