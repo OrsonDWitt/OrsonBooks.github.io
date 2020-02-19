@@ -7,9 +7,6 @@ comments: false
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/Orson.jpg" alt="jekyll template mediumish" /></p>
-
 <p>Born and raised in the harsh environment of pine forests, Orson learned a thing or two about storytelling from a seasoned moose. Upon graduation, the moose gave him a task that would change the course of his life forever. It asked of Orson to venture out of the woods and find a story so marvelous it would keep the moose on its hooves. And thus he set off to face the unknown and find new pastures, filled to the brim with adventurous people and provocative stories. He worked as an orbital garbage man, cyber police officer, spam-bot and even a thermos, but nowhere could he find a story that would blow the socks off of the old moose. Until, one day, he discovered that the best story is not the one that you find, but the one you invent. 
 </p><p>
 But the old moose had already died by the time Orson returned, so it's up to you to decide if the stories he invented are any good; if the task is complete; if the moose would be proud.<p>
@@ -34,7 +31,7 @@ Let Orson know if his stories are any good via e-mail: <a href="mailto:author@or
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
