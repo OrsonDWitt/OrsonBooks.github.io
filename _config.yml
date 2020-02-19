@@ -13,9 +13,9 @@ include: ["_pages"]
 permalink: /posts/:title/
 
 games: 'https://egypt.orcinusgames.com'
-discord_invite: 'https://discord.gg/amMNE4x'
-steam_creator_page: 'https://store.steampowered.com/developer/orcinusgames/'
-youtube: 'https://www.youtube.com/channel/UCdod8Lkks-QqSjm0epIHv-A'
+# discord_invite: 'https://discord.gg/amMNE4x'
+# steam_creator_page: 'https://store.steampowered.com/developer/orcinusgames/'
+# youtube: 'https://www.youtube.com/channel/UCdod8Lkks-QqSjm0epIHv-A'
 email: 'author@orsondewitt.com'
 
 # Authors
