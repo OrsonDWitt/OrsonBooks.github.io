@@ -66,8 +66,8 @@ div .book-2 {
 	overflow: auto; padding:2% 5% 2% 1%; font-family:'PT Serif', serif;}
 
 @media screen and (max-width: 576px){
-	.books h3 {text-align:center};
+	h3 {text-align:center};
 	.books .col-12 {text-align:center};
-	div .book-1 {border:none; padding:0;};
-	div .book-2 {border:none; padding:0;};
+	div .book-1 {border:none; padding:2% 1% 2% 2%;};
+	div .book-2 {border:none; padding:2% 1% 2% 2%;};
 }
