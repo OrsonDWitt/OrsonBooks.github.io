@@ -6,8 +6,8 @@ comments: false
 	
 <div class="container-fluid">
 	<div class="row d-flex justify-content-center text-light">
-		<div class="col-xl-4 col-lg-4 col-12 col-sm-6 book-1" style="max-height:590px;">
-			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School" style="max-height:590px;"/>
+		<div class="col-xl-4 col-lg-4 col-12 col-sm-6 book-1">
+			<img src="{{ site.baseurl }}/assets/images/orcacover.png" alt="Orca Hunting School" style="max-height:580px;"/>
 		</div>
 		<div class="col-xl-4 col-lg-6 col-12 col-sm-6 book-2">
 			<h3 class="text-left">Orca Hunting School</h3>
