@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: books
 permalink: /
 comments: false
 ---
