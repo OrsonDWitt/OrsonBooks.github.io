@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: books
 title: About Orson De Witt
 permalink: /about
 comments: false
