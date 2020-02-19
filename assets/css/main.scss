@@ -37,10 +37,10 @@
 	font-weight: 600;
 }
 
-.books .dropdown-item {float:right; width:50%;}
+.books .dropdown-menu-right .dropdown-item {float:right; width:50%;}
 
-.dropright .dropdown-menu a {color:#000;}
-.dropright .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
+.books .dropdown-menu a {color:#000;}
+.books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
 
 div .book-1 {
 	 background-color: #000000;
