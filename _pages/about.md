@@ -8,7 +8,6 @@ comments: false
 <div class="row justify-content-center">
 <div class="col-md-3">
 <div class="sticky-top sticky-top-80 text-right">
-<h5>Buy me a coffee</h5>
 <p><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 </div>
@@ -24,8 +23,6 @@ Let Orson know if his stories are any good via e-mail: <a href="mailto:author@or
 <a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>, or
 <a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>
 </p>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
