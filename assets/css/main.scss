@@ -38,7 +38,10 @@
 }
 
 .books .dropdown-menu {min-width:4rem;}
-.books .dropdown-menu[aria-expanded="true"] {max-width:6.5rem;}
+
+//language switch for smaller screens
+.books .dropdown-menu[aria-expanded="true"],.books .mediumnavigation .dropdown-menu[aria-expanded=true] {background-color:#000; border: none; margin: 0; padding-top: 0;}
+
 .books .dropdown-menu-right .dropdown-item {text-align:center; width:6.5rem;}
 
 .books .dropdown-menu a {color:#000;}
