@@ -27,7 +27,40 @@
 	padding-bottom: 0;
 }
 .books .mediumnavigation .navbar-brand img  {
-	max-height: 37px;
+	max-height: 44px;
+	margin-top: 3px;
+}
+
+//logo adjustment for menu
+@media screen and (max-width: 1950px){
+.padding-adjustment {
+	padding-left: 6.5rem!important;
+	}
+}
+@media screen and (max-width: 1890px){
+.padding-adjustment {
+	padding-left: 6rem!important;
+	}
+}
+@media screen and (max-width: 1810px){
+.padding-adjustment {
+	padding-left: 5.5rem!important;
+	}
+}
+@media screen and (max-width: 1720px){
+.padding-adjustment {
+	padding-left: 4.5rem!important;
+	}
+}
+@media screen and (max-width: 1635px){
+.padding-adjustment {
+	padding-left: 4rem!important;
+	}
+}
+@media screen and (max-width: 1510px){
+.padding-adjustment {
+	padding-left: 0.3rem!important;
+	}
 }
 
 .books a,.books .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
