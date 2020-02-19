@@ -2,7 +2,7 @@
 layout: page
 title: About Orson De Witt
 permalink: /about
-comments: false
+comments: true
 ---
 
 <div class="row justify-content-between">
