@@ -66,15 +66,15 @@
 .padding-adjustment {
 	padding-left: 0.3rem!important;
 	}
-.books .mediumnavigation .navbar-brand img  {
-	max-height: 34px;
-	margin-top: 3px;
-}
 }
 @media screen and (max-width: 576px){
 .padding-adjustment {
 	padding-left: 0rem!important;
 	}
+.books .mediumnavigation .navbar-brand img  {
+	max-height: 34px;
+	margin-top: 3px;
+}
 }
 
 .books a,.books .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
