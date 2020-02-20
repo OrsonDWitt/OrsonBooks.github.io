@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-4 col-lg-3 pt-2">
 <div class="sticky-top sticky-top-80 text-sm-right text-center">
 <p class="text-center text-md-right"><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
-<p class="text-center"><a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger mb-1">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning mb-1">Documentation</a></p>
+<p class="text-center text-xl-right"><a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger mb-1">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning mb-1">Documentation</a></p>
 </div>
 </div>
 <div class="col-md-8 col-lg-6 pr-5">
