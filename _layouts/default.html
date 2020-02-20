@@ -44,9 +44,11 @@
     <!-- Begin Logo -->
 	    {% if page.url == "/about" %}
    <a class="navbar-brand padding-adjustment" href="{{ site.baseurl }}/">
-	    	    {% else %}
-	        <a class="navbar-brand padding-adjustment-main" href="{{ site.baseurl }}/">
-			{% endif %}
+	    	    {% else if page.layout == 'post' %}
+	        <a class="navbar-brand padding-adjustment-posts" href="{{ site.baseurl }}/">
+{% else %}
+			<a class="navbar-brand" href="{{ site.baseurl }}/">
+{% endif %}
 	    <img class="img-fluid logo" src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
