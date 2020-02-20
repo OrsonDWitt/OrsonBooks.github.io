@@ -26,7 +26,7 @@
 	padding-top: 0;
 	padding-bottom: 0;
 }
-.books .mediumnavigation .navbar-brand img  {
+.mediumnavigation .navbar-brand img  {
 	max-height: 44px;
 	margin-top: 3px;
 }
@@ -109,13 +109,12 @@
 .padding-adjustment-about {
         .padding-left: 0rem!important;
 }
-
 }
 @media screen and (max-width: 576px){
 .padding-adjustment {
 	padding-left: 0rem!important;
 	}
-.books .mediumnavigation .navbar-brand img  {
+.mediumnavigation .navbar-brand img, {
 	max-height: 34px;
 	margin-top: 3px;
 }
