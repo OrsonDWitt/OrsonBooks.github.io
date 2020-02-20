@@ -71,6 +71,11 @@
 	margin-top: 3px;
 }
 }
+@media screen and (max-width: 576px){
+.padding-adjustment {
+	padding-left: 0rem!important;
+	}
+}
 
 .books a,.books .navbar-dark .navbar-nav .nav-link {color: #fff; transition: color 0.2s;}
 
