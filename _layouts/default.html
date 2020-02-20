@@ -59,7 +59,11 @@
 
         <!-- Begin Menu -->
 
+{% if page.url == "/about" %}
+ <ul class="navbar-nav ml-auto">
+{% else %}
             <ul class="navbar-nav ml-auto">
+{% endif %}
 
                 {% if page.url == "/" %}
                 <li class="nav-item active">
