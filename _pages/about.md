@@ -7,7 +7,7 @@ comments: false
 
 <div class="row justify-content-center">
 <div class="col-md-3 pt-2">
-<div class="sticky-top sticky-top-80 d-flex align-items-center align-items-sm-end">
+<div class="sticky-top sticky-top-80 d-flex text-right text-sm-center">
 <p><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 </div>
