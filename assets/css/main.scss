@@ -36,9 +36,12 @@
 .padding-adjustment {
 	padding-left: 6.5rem!important;
 	}
+.padding-adjustment-main {
+	padding-left: 8rem!important;
+	}
 }
 @media screen and (max-width: 1890px){
-.padding-adjustment {
+.padding-adjustment-main {
 	padding-left: 6rem!important;
 	}
 }
@@ -46,20 +49,40 @@
 .padding-adjustment {
 	padding-left: 5.5rem!important;
 	}
+.padding-adjustment-main {
+	padding-left: 7rem!important;
+	}
 }
 @media screen and (max-width: 1720px){
 .padding-adjustment {
 	padding-left: 4.5rem!important;
+	}
+.padding-adjustment-main {
+	padding-left: 6rem!important;
 	}
 }
 @media screen and (max-width: 1635px){
 .padding-adjustment {
 	padding-left: 4rem!important;
 	}
+.padding-adjustment-main {
+	padding-left: 5rem!important;
+	}
+
+}
+@media screen and (max-width: 1550px){
+.padding-adjustment-main {
+	padding-left: 4.5rem!important;
+	}
 }
 @media screen and (max-width: 1510px){
 .padding-adjustment {
 	padding-left: 3.5rem!important;
+	}
+}
+@media screen and (max-width: 1500px){
+.padding-adjustment-main {
+	padding-left: 0.5rem!important;
 	}
 }
 @media screen and (max-width: 1200px){
