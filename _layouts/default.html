@@ -44,7 +44,7 @@
     <!-- Begin Logo -->
 	    {% if page.url == "/about" %}
    <a class="navbar-brand padding-adjustment" href="{{ site.baseurl }}/">
-	    	    {% else if page.layout == 'post' %}
+	    	    {% elsif page.layout == 'post' %}
 	        <a class="navbar-brand padding-adjustment-posts" href="{{ site.baseurl }}/">
 {% else %}
 			<a class="navbar-brand" href="{{ site.baseurl }}/">
